@@ -1,0 +1,17 @@
+#get{
+    position: relative;
+    left: 5rem;
+    width: 200px;
+    padding: 10px;
+    margin: 20px;
+    background-color: #7c20be;
+    color: white;
+    
+    border-style: none;
+}
+.store{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-bottom: 30px;
+}
